@@ -1,0 +1,15 @@
+[submodule "GIT_Bash"]
+	path = GIT_Bash
+	url = ./GIT_Bash/
+[submodule "GIT_SAM_RAB"]
+	path = GIT_SAM_RAB
+	url = ./GIT_SAM_RAB/
+[submodule "myrepo"]
+	path = myrepo
+	url = ./myrepo/
+[submodule "ProGitMy"]
+	path = ProGitMy
+	url = ./ProGitMy/
+[submodule "tmp2"]
+	path = tmp2
+	url = ./tmp2/
